@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Chukwudi Ofoma"
-    subtitle: Incoming [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the **University of Toronto**, Canada 🇨🇦<br>Backend Engineer 🧑🏻‍💻 at [**BuyerAssist.io**](https://buyerassist.io/), a B2B startup based in India 🇮🇳<br>B.Tech. in Electronics & Communication Engineering at **NIT Trichy**, India 🇮🇳<br>**YouTuber** 🎬 who makes videos on career, higher education & productivity
+    subtitle: I am a Computer Science student of Pan-Atlantic University, Lagos, Nigeria. I am currently learning to build softwares and working on a number of projects.
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
