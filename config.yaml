@@ -45,13 +45,13 @@ params:
   profileMode:
     enabled: true
     title: "Chukwudi Ofoma"
-    subtitle: Meet Chukwudi, a skilled software developer with expertise in data structures and algorithms, operating systems, systems administration, and web development. With a solid foundation in programming, Chukwudi is committed to solving complex technical challenges and has hands-on experience developing software applications and websites using various frameworks and tools. He is an excellent collaborator and communicator, able to work effectively in team environments and translate technical concepts to non-technical stakeholders. Chukwudi is currently pursuing a Bachelor's degree in Computer Science and is eager to contribute his skills to a dynamic and innovative team.
+    subtitle: I'm a motivated software developer with hands-on experience in developing software applications and websites using various frameworks and tools, and a strong foundation in programming, algorithms, and data structures.
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+    buttons:
+      - name: Resume
+        url: "https://drive.google.com/file/d/1_GNyDlj3A5ONxSJ3wZ4adheGKvG5-PQF/view"
 
   # List View
   hideDescriptionInList: false
@@ -70,8 +70,6 @@ params:
       url: "https://github.com/ochudi"
     - name: "youtube"
       url: "https://www.youtube.com/@ochudi"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1_GNyDlj3A5ONxSJ3wZ4adheGKvG5-PQF/view"
 
   # text search
   fuseOpts:
