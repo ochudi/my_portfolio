@@ -1,6 +1,6 @@
 baseURL: "https://ochudi.netlify.app/"
 languageCode: en-us
-title: Chukwudi Ofoma
+title: Chudi
 theme: PaperMod
 
 menu:
@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Chukwudi Ofoma"
-    subtitle: I am a Computer Science student of Pan-Atlantic University, Lagos, Nigeria. I am currently learning to build softwares and working on a number of projects.
+    subtitle: Meet Chukwudi, a skilled software developer with expertise in data structures and algorithms, operating systems, systems administration, and web development. With a solid foundation in programming, Chukwudi is committed to solving complex technical challenges and has hands-on experience developing software applications and websites using various frameworks and tools. He is an excellent collaborator and communicator, able to work effectively in team environments and translate technical concepts to non-technical stakeholders. Chukwudi is currently pursuing a Bachelor's degree in Computer Science and is eager to contribute his skills to a dynamic and innovative team.
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
