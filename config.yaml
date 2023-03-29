@@ -40,7 +40,7 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Chukwudi Ofoma"
+    title: "Chukwudi Peter Ofoma"
     subtitle: I'm a motivated software developer with hands-on experience in developing software applications and websites using various frameworks and tools, and a strong foundation in programming, algorithms, and data structures.
     imageUrl: "home/me.jpg"
     imageWidth: 220

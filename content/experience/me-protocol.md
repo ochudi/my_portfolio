@@ -1,12 +1,3 @@
-title: "Software Developer (Intern)”
-description: “MeProtocol (USA)”
-dateString: July 2021 - January 2023
-draft: false
-tags: [“JavaScript	”, “Node.Js”, “PostgreSQL”]
-showToc: false
-weight: 303
---- 
-
 ## Description
 
 **Guide:** **Mr Paul Oamen** (CTO at Me-Protocol)
